@@ -1,0 +1,23 @@
+{
+    "name": "bottest",
+    "version": "1.0.0",
+    "description": "trying to get something to work man",
+    "main": "main.js",
+    "dependencies": {
+        "discord.js": "^13.6.0"
+    },
+    "devDependencies": {
+        "discord.js": "^13.2.0",
+        "node": "^16.10.0"
+    },
+    "scripts": {
+        "start": "node ."
+    },
+    "author": "m mount",
+    "license": "UNLICENSED",
+    "keywords": [
+        "bot",
+        "test",
+        "help"
+    ]
+}
